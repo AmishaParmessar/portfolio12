@@ -11,6 +11,11 @@ body {
   line-height: 1.6;
 }
 
+p{
+  font-family: font-family: "Times New Roman", "Georgia", serif;
+
+}
+
 .large-title {
   text-align: center;
   padding: 6rem 0;
