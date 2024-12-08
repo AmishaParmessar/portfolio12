@@ -170,7 +170,7 @@ footer .social-icon:hover {
   color: #005A6F; /* Hover effect with deep blue */
 }
 
-.button1 {
+#button1 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
