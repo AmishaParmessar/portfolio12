@@ -181,7 +181,7 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
-.button2 {
+#button2 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
@@ -192,7 +192,7 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
-.button3 {
+#button3 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
@@ -203,7 +203,7 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
-.button4 {
+#button4 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
@@ -214,7 +214,7 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
-.button5 {
+#button5 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
@@ -225,7 +225,7 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
-.button6 {
+#button6 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
