@@ -269,6 +269,17 @@ footer .social-icon:hover {
   font-size: 16px;
   border-radius: 8px;
 }
+#button10 {
+  background-color: #ede8d0; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
 #button11 {
   background-color: #ede8d0; /* Green */
   border: none;
@@ -279,7 +290,8 @@ footer .social-icon:hover {
   display: inline-block;
   font-size: 16px;
   border-radius: 8px;
-}#button12 {
+}
+#button12 {
   background-color: #ede8d0; /* Green */
   border: none;
   color: black;
